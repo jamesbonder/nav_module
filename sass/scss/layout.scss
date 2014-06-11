@@ -136,22 +136,43 @@ section.second h1{
 	border-left:1px solid #f0f0f0;
 	min-width:70px;	
 	height:63px;
+	-webkit-transition: 0.2s ease-in-out; 
+	-moz-transition: 0.2s ease-in-out; 
+	-o-transition: 0.2s ease-in-out; 
+	transition: 0.2s ease-in-out;
 }
 
 .nav.menu2:hover{
 	background-color:#303030;
+	-webkit-transition: 0.2s ease-in-out; 
+	-moz-transition: 0.2s ease-in-out; 
+	-o-transition: 0.2s ease-in-out; 
+	transition: 0.2s ease-in-out;
+	border-right:1px solid #303030;
 }
 
 .nav.menu3:hover{
 	background-color:#303030;
+	-webkit-transition: 0.2s ease-in-out; 
+	-moz-transition: 0.2s ease-in-out; 
+	-o-transition: 0.2s ease-in-out; 
+	transition: 0.2s ease-in-out;
 }
 
 .nav.menu4:hover{
 	background-color:#303030;
+	-webkit-transition: 0.2s ease-in-out; 
+	-moz-transition: 0.2s ease-in-out; 
+	-o-transition: 0.2s ease-in-out; 
+	transition: 0.2s ease-in-out;
 }
 
 .nav.menu5:hover{
 	background-color:#303030;
+	-webkit-transition: 0.2s ease-in-out; 
+	-moz-transition: 0.2s ease-in-out; 
+	-o-transition: 0.2s ease-in-out; 
+	transition: 0.2s ease-in-out;
 }
 
 .nav.menu3{
